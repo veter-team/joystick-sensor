@@ -1,2 +1,3 @@
-Vehicle on-board software.
+Sensor interface implementation for joystick and joystick-like devices
+such as wheels with pedals, etc.
 
